@@ -1,5 +1,3 @@
-# Vue-manager
-
 > A Vue.js project
 
 ## Build Setup
@@ -19,4 +17,6 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# Vue-manager-static
+
+
+使用了vue、vuex、vue-router和axios，系统大部分涉及表单的增删改查，部分页面涉及用户权限配置，还有一些图片的上传操作
